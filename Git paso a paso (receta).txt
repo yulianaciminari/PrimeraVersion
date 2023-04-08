@@ -1,0 +1,16 @@
+Crear una carpeta 
+Dentro de la carpeta, click derecho y hacer Git bash Here
+Dentro del editor de comandos hacer:
+git clone https://github.com/Ludmimar/MiPrimerVersion.git (aqui colocar nombre de mi repo)
+cerrar el comando
+Entrar a la carpeta que se clono del repo vacia
+Adentro de esta carpeta copiar los archivos del proyecto.
+luego hacer git bash here:
+git status
+git add .
+git status
+git commit -a -m "Primer version"
+git push -u origin 
+
+con estos pasos envio mi proyecto al repo remoto
+Actualizo la pagina de gitub y me aparece el archivo que envie
